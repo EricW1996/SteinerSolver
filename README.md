@@ -1,8 +1,8 @@
-# StenierSolver
+# SteinerSolver
 
-Code and some dataset for StenierSolver.
+Code and some dataset for SteinerSolver.
 
-StenierSolver is a deep reinforcement learning model to solve Euclidean Steiner tree problem.
+SteinerSolver is a deep reinforcement learning model to solve Euclidean Steiner tree problem.
 
 ## File
 /attention_completeV1.3.1 is the code for the deep reinforcement learning model.
