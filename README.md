@@ -6,6 +6,7 @@ StenierSolver is a deep reinforcement learning model to solve Euclidean Steiner 
 
 ## File
 /attention_completeV1.3.1 is the code for the deep reinforcement learning model.
+
 /steiner tree experiment data includes the dataset and the corresponded minimal Steiner tree.
 
 ## Paper
