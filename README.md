@@ -13,7 +13,7 @@ SteinerSolver is a deep reinforcement learning model to solve Euclidean Steiner 
 
 ## Model
 
-![Encoder model](https://github.com/cdslabamotong/SteinerSolver/blob/main/attention_completeV1.3.1/encoder.png?raw=true)
+![Encoder model](https://github.com/cdslabamotong/SteinerSolver/blob/main/attention_completeV1.3.1/Encoder.PNG?raw=true)
 
 ![Decoder model](https://github.com/cdslabamotong/SteinerSolver/blob/main/attention_completeV1.3.1/decoder.png?raw=true)
 
