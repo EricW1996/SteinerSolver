@@ -11,6 +11,9 @@ SteinerSolver is a deep reinforcement learning model to solve Euclidean Steiner 
 
 ## Paper
 
+## Model
+
+
 ## Dependencies
  *   Python>=3.8
  *   NumPy
