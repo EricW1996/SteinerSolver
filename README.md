@@ -10,7 +10,7 @@ SteinerSolver is a deep reinforcement learning model to solve Euclidean Steiner 
 /steiner tree experiment data includes the dataset and the corresponded minimal Steiner tree.
 
 ## Paper
-
+EAI
 ## Model
 ### Encoder
 ![Encoder model](https://github.com/cdslabamotong/SteinerSolver/blob/main/attention_completeV1.3.1/Encoder.PNG?raw=true)
